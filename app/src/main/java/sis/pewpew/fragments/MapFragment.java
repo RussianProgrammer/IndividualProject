@@ -1,6 +1,5 @@
 package sis.pewpew.fragments;
 
-import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.LayoutInflater;
